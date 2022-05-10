@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T08:50:50.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="tsEoPN4em3p-Pyv4GG6K" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-10T08:56:54.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="LShjy9epocvziWuCGsrA" version="18.0.2" type="github" pages="2">
   <diagram id="OnJ23Ht3TBIDX5-kmEjJ" name="Page-1">
     <mxGraphModel dx="2067" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,17 +136,17 @@
         <mxCell id="Bk3x3sHnwQurIrZSOyBp-12" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-2">
           <mxGeometry y="336" width="235" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="Bk3x3sHnwQurIrZSOyBp-16" value="The fun part" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="646" width="410" height="104" as="geometry" />
+        <mxCell id="Bk3x3sHnwQurIrZSOyBp-16" value="The fun part" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="580" width="410" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Bk3x3sHnwQurIrZSOyBp-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
-          <mxGeometry y="26" width="410" height="26" as="geometry" />
+        <mxCell id="Bk3x3sHnwQurIrZSOyBp-17" value="In charge of detecting missing people in the zone determined and&#xa;notifying the chosen contact by type of communication chosen in &#xa;the zone object. " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
+          <mxGeometry y="26" width="410" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="Bk3x3sHnwQurIrZSOyBp-18" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
-          <mxGeometry y="52" width="410" height="26" as="geometry" />
+        <mxCell id="Bk3x3sHnwQurIrZSOyBp-18" value="Figuring out the connection to TWILLO apis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
+          <mxGeometry y="120" width="410" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="Bk3x3sHnwQurIrZSOyBp-19" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
-          <mxGeometry y="78" width="410" height="26" as="geometry" />
+        <mxCell id="Bk3x3sHnwQurIrZSOyBp-19" value="Sending notification back to the client to their phone (THIS IS AN &#xa;INTERESTING PART TO FIGURE OUT) probably need some &#xa;socket IO thing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" vertex="1" parent="Bk3x3sHnwQurIrZSOyBp-16">
+          <mxGeometry y="166" width="410" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Bk3x3sHnwQurIrZSOyBp-20" value="API&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="952.5" y="160" width="117.5" height="50" as="geometry" />
