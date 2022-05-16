@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T17:29:54.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="FVXeqqAa6k06tZTAwqSX" version="18.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-16T17:30:38.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="5rA4Usu8goKdowako4zC" version="18.0.6" type="github" pages="2">
   <diagram id="OnJ23Ht3TBIDX5-kmEjJ" name="Page-1">
     <mxGraphModel dx="553" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,6 +231,9 @@
         </mxCell>
         <mxCell id="qSfsRtd-j9E3h0j8mT5T-1" value="We need authentication and&lt;br&gt;authorization, Implementing our authorization and authentication with the help of JWT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="791" width="240" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="hFi8CVxTuR9FTAXGdVDn-1" value="we use JPA to save data on the database instead of low level jdbc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="932" width="260" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
